@@ -1,7 +1,5 @@
-escort and amp data collected from
-skipthegames.com.
+escort and amp data collected from skipthegames.com.
 
-current listings include:
-a. idaho;
-b. montana; and
-c. washington.
+===================================================
+| montana                                         |
+===================================================
