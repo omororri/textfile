@@ -1,1 +1,7 @@
-the textfile repository includes lists and data in text format, reminiscent of bbs and listserv.
+```json
+{
+    "repository": "textfile",
+    "subtitle": "56.6kbps bbs"
+}
+
+```
