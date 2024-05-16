@@ -1,7 +1,9 @@
 ```json
 {
-    "repository": "textfile",
-    "subtitle": "56.6kbps bbs"
+    "repository": {
+        "name": "textfile",
+        "subtitle": "56.6kbps style bbs"
+    }
 }
 
 ```
